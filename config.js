@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "Yeah das Mindeste vom Mindesten?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "Yeah und noch viel viel mehr! 🥰"                          // Shows when they go past 100%
+        normal: "Viel viel mehr! 🥰"                          // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
