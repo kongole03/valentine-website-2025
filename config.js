@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                                 // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will mein Bby mein Valentinstag für den 14.Februar sein, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "Sideeyee👀"                                        // Text for "No" button
         }
@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "Yeah das Mindeste vom Mindesten?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "Yeah und noch viel viel mehr! 🥰"                           // Shows when they go past 100%
+        normal: "Yeah und noch viel viel mehr! 🥰"                          // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yipppieeeee! Ich bin happy mit mein Baby zusammen zu sein! 🎉💝💖💝💓",
-        message: "Ich wünschte ich wäre jetzt bei dir und wir könnten kuscheln heheh!",
+        message: " Wir haben ein Date Yiiipppiiieee",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
